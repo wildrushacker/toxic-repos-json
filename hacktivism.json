@@ -1,0 +1,115 @@
+{
+"hacktivist_libraries": [
+	{
+		"id" : 2,
+		"package_name" : "PhpSpeadsheet",
+		"package_version" : "3.0.2",
+		"package_impact" : "Dangerous",
+		"package_hacktivism_description" : "Зависимость от markbaker\/complex с зависимостью от markbaker\/ukraine. Package description: \"A PHP Composer Plug-in to show support for Ukraine\""
+	},
+	{
+		"id" : 23,
+		"package_name" : "dxh-team\/CDUW",
+		"package_version" : "Unknown",
+		"package_impact" : "ddos",
+		"package_hacktivism_description" : "ПО разработанное и настроенное для атак ресурсов РФ на базе Hammer Dos Script"
+	},
+	{
+		"id" : 6,
+		"package_name" : "hybridauth",
+		"package_version" : "3.8.2",
+		"package_impact" : "LimitFunctionality",
+		"package_hacktivism_description" : "Удалили авторизацию через российских провайдеров: ВК, ОК, Яндекс, Mail.ru. Лозунги."
+	},
+	{
+		"id" : 7,
+		"package_name" : "ctx", 
+		"package_version" : "0.1.2",
+		"package_impact" : "Stealer",
+		"package_hacktivism_description" : "Вредоносные версии 0.2.2, 0.2.6, 0.1.2. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY.  Подробности https:\/\/www.opennet.ru\/opennews\/art.shtml?num=57242"
+	},
+	{
+		"id" : 10,
+		"package_name" : "yandex-xml-library",
+		"package_version" : "2.0.24",
+		"package_impact" : "BrokenPipe",
+		"package_hacktivism_description" : "В packagist добавлена версия пакета с политическим лозунгом, а исходники удалены из гитхаба. Результат - сломанная сборка проекта"
+	},
+	{
+		"id" : 11,
+		"package_name" : "node-ipc",
+		"package_version" : " 9.2.2",
+		"package_impact" : "Malware",
+		"package_hacktivism_description" : "https:\/\/github.com\/RIAEvangelist\/node-ipc\/issues\/233"
+	},
+	{
+		"id" : 12,
+		"package_name" : "event-source-polyfill",
+		"package_version" : "1.0.24",
+		"package_impact" : "Malware",
+		"package_hacktivism_description" : "https:\/\/github.com\/Yaffle\/EventSource\/issues\/199"
+	},
+	{
+		"id" : 5,
+		"package_name" : "Tyrrrz\/DiscordChatExporter",
+		"package_version" : "2.36.4.",
+		"package_impact" : "Dangerous",
+		"package_hacktivism_description" : "до версии 2.36.4 при запуске показывалась плашка с несанкционированными сообщениями. С версии 2.37 программа отказывается запускаться, если в системе не прописана переменная среды с недопустимым текстом. Скриншот: https:\/\/imgbox.com\/exCP7iOc"
+	},
+	{
+		"id" : 13,
+		"package_name" : "es5-ext",
+		"package_version" : "0.10.54",
+		"package_impact" : "Malware",
+		"package_hacktivism_description" : "Популярная библиотека https:\/\/www.npmjs.com\/package\/es5-ext которая не обновлялась до этого 2 года начала получать регулярные обновления которые содержат как несанкционированные сообщения, которые могут восприняты пользователем как взлом, так и код по таймзоне увеличивающий утилизацию ресурсов."
+	},
+	{
+		"id" : 8,
+		"package_name" : "phppass",
+		"package_version" : "0.0.0",
+		"package_impact" : "Stealer",
+		"package_hacktivism_description" : "Версии пакета с 19.05.2022 по 24.05.2022. Ворует содержимое переменных окружения AWS_ACCESS_KEY и AWS_SECRET_KEY. Подробности https:\/\/www.opennet.ru\/opennews\/art.shtml?num=57242"
+	},
+	{
+		"id" : 14,
+		"package_name" : "fomvasss\/laravel-dadata",
+		"package_version" : "0.0.0",
+		"package_impact" : "broken_assembly",
+		"package_hacktivism_description" : "Удален с github. Сломанная сборка. "
+	},
+	{
+		"id" : 15,
+		"package_name" : "yandex-php-library",
+		"package_version" : "0.0.0",
+		"package_impact" : "broken_assembly",
+		"package_hacktivism_description" : "Странное поведение библиотеки. Сломанная сборка"
+	},
+	{
+		"id" : 4,
+		"package_name" : "sweetalert2",
+		"package_version" : "11.6.5",
+		"package_impact" : "PoliticalSlogans",
+		"package_hacktivism_description" : "Повторный случай для этой JS-библиотеки. При посещении сайта в RU-зоне из браузера с RU-локалью включать украинский гимн, что может быть воспринято как взлом."
+	},
+	{
+		"id" : 48,
+		"package_name" : "vnestoruk\/BAN-dera",
+		"package_version" : "0.0.0",
+		"package_impact" : "ddos",
+		"package_hacktivism_description" : "Сервис, который ддосит сайты из списка с компьютеров пользователей, у кого открыта вкладка с сайтом. Я думаю, стоит подробно описать как жаловаться на авторов подобных дистрибутивов или патчей."
+	},
+	{
+		"id" : 49,
+		"package_name" : "curlpump",
+		"package_version" : "0.0.0",
+		"package_impact" : "ddos",
+		"package_hacktivism_description" : "При запуске отправляет многочисленные запросы на сайты из списка (там не только госсайты, но и российские компании)."
+	},
+	{
+		"id" : 578,
+		"package_name" : "fmtlib\/fmt",
+		"package_version" : "0.0.0",
+		"package_impact" : "political_slogans",
+		"package_hacktivism_description" : "Политические лозунги, логотип, сбор денег."
+	}
+]}
