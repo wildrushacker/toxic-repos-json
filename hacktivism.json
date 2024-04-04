@@ -1,5 +1,4 @@
-{
-"hacktivist_libraries": [
+[
 	{
 		"id" : 2,
 		"package_name" : "PhpSpeadsheet",
@@ -112,4 +111,4 @@
 		"package_impact" : "political_slogans",
 		"package_hacktivism_description" : "Политические лозунги, логотип, сбор денег."
 	}
-]}
+]
