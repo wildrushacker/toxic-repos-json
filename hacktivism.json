@@ -37,7 +37,7 @@
 	{
 		"id" : 11,
 		"package_name" : "node-ipc",
-		"package_version" : " 9.2.2",
+		"package_version" : "9.2.2",
 		"package_impact" : "Malware",
 		"package_hacktivism_description" : "https:\/\/github.com\/RIAEvangelist\/node-ipc\/issues\/233"
 	},
